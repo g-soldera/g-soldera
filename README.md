@@ -22,5 +22,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-soldera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
-<h2>Repositories:</h2>
+<h2>📑 Repositories:</h2>
 <a href="https://g-soldera.github.io/social-linking/"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1109874072097144943/sociallinkingHeader.png"/></a>
