@@ -1,5 +1,5 @@
 <h1>Hi, i'm Gustavo Soldera</h1>
-<a href="#" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1109870467852013790/header.png"/></a>
+<a href="#" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1109898222190735381/header.png"/></a>
 <h2>📫Contact me:</h2>
 <div>
   <a href = "mailto:gustavo.soldera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,4 +24,4 @@
 </div>
 <br>
 <h2>📑 Repositories:</h2>
-<a href="https://github.com/g-soldera/social-linking" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1109874072097144943/sociallinkingHeader.png"/></a>
+<a href="https://github.com/g-soldera/social-linking" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1109898222517887057/sociallinkingHeader.png"/></a>
