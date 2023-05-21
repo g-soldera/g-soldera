@@ -16,6 +16,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" target="_blank"/> 
 </div>
 <br>
+<h2>📊 Github Statistics:</h2>
 <div>
   <a href="https://github.com/g-soldera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&langs_count=7&theme=dracula"/>
