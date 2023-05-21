@@ -24,4 +24,4 @@
 </div>
 <br>
 <h2>📑 Repositories:</h2>
-<a href="https://github.com/g-soldera/social-linking" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1109898222517887057/sociallinkingHeader.png"/></a>
+<a href="https://github.com/g-soldera/social-linking" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1109899752981659738/sociallinkingHeader.png"/></a>
