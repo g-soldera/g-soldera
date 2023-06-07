@@ -26,3 +26,4 @@
 <h2>📑 Repositories:</h2>
 <a href="https://github.com/g-soldera/social-linking" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1111637291144859728/sociallinkingHeader.png"/></a>
 <a href="https://github.com/g-soldera/art-gallery" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1111628222283644928/absolutegalleryHeader.png"/></a>
+<a href="https://github.com/g-soldera/portfolio-cards" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116012126822203502/portfolioHeader.png"/></a>
