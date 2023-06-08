@@ -22,12 +22,13 @@
 <h2>📊 Github Statistics:</h2>
 <div>
   <a href="https://github.com/g-soldera">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&langs_count=7&theme=synthwave" width="470"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=g-soldera&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" width="525"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&langs_count=7&theme=synthwave" width="500"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=g-soldera&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" width="500"/>
 </div>
 <br>
 <h2>📑 Repositories:</h2>
+<a href="https://github.com/g-soldera/launch-countdown" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116447233844465758/launchHeader.png"/></a>
+<a href="https://github.com/g-soldera/portfolio-cards" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116012126822203502/portfolioHeader.png"/></a>
 <a href="https://github.com/g-soldera/social-linking" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1111637291144859728/sociallinkingHeader.png"/></a>
 <a href="https://github.com/g-soldera/art-gallery" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1111628222283644928/absolutegalleryHeader.png"/></a>
-<a href="https://github.com/g-soldera/portfolio-cards" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116012126822203502/portfolioHeader.png"/></a>
-<a href="https://github.com/g-soldera/launch-countdown" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116447233844465758/launchHeader.png"/></a>
