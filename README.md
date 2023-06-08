@@ -22,9 +22,9 @@
 <h2>📊 Github Statistics:</h2>
 <div>
   <a href="https://github.com/g-soldera">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&langs_count=7&theme=synthwave" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&langs_count=7&theme=synthwave" width="screen"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=g-soldera&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=g-soldera&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" width="screen"/>
 </div>
 <br>
 <h2>📑 Repositories:</h2>
