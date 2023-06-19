@@ -1,4 +1,5 @@
-<h1>Hi, i'm Gustavo Soldera</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Soldera;I'm+21+years+old;I+from+São+Paulo,+Brazil;I+study+front-end+development;Be+Welcome!:%29)](https://git.io/typing-svg)
+
 <a href="https://gsoldera.dev" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1109898222190735381/header.png"/></a>
 <h2>📫Contact me:</h2>
 <div>
