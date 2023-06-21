@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/g-soldera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br>
-<h2>⭐️ Things I code with:</h2>
+<h2>⭐️ My Skills:</h2>
 <div>
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
