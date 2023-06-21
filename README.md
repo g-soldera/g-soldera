@@ -23,18 +23,17 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss)](https://skillicons.dev)
-
-<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" target="_blank"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" target="_blank"/> 
-          
            
 </div>
 <br>
 <h2>🌱 Current Interests:</h2>
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" target="_blank"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" target="_blank"/> 
-<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" target="_blank"/>
-<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" target="_blank"/> 
-          
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=redux,angular,adonisjs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
               
 </div>
 <br>
