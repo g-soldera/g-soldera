@@ -22,7 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=css,sass, tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss)](https://skillicons.dev)
 
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" target="_blank"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" target="_blank"/> 
           
