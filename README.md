@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,vite)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss)](https://skillicons.dev)
            
