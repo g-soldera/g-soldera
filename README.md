@@ -9,12 +9,6 @@
 </div>
 <br>
 <a href="https://github.com/g-soldera/launch-countdown" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116447233844465758/launchHeader.png"/></a>
-<h2>📫Contact me:</h2>
-<div>
-  <a href = "mailto:gustavo.soldera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/g-soldera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<br>
 <h2>⭐️ My Skills:</h2>
 <div>
 
@@ -41,3 +35,9 @@
 <a href="https://github.com/g-soldera/portfolio-cards" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116012126822203502/portfolioHeader.png"/></a>
 <a href="https://github.com/g-soldera/social-linking" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1111637291144859728/sociallinkingHeader.png"/></a>
 <a href="https://github.com/g-soldera/art-gallery" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1111628222283644928/absolutegalleryHeader.png"/></a>
+<h2>📫Contact me:</h2>
+<div>
+  <a href = "mailto:gustavo.soldera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/g-soldera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<br>
