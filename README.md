@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Soldera;I'm+21+years+old;I'm+from+São+Paulo,+Brazil;I+study+front-end+development+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Soldera;I'm+21+years+old;I'm+from+São+Paulo,+Brazil;I'm+actually+using:;Javascript+and+Typescript:+NodeJS,+React,+NextJS;CSS:+TailwindCSS,+SASS,+Styled-Components;I'm+currently+learning)](https://git.io/typing-svg)
 <h2>📊 Github Statistics:</h2>
 <div align="center">
   <a href="https://github.com/g-soldera">
@@ -26,7 +26,9 @@
 <br>
 <h2>🌱 Current Interests:</h2>
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" target="_blank"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" target="_blank"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" target="_blank"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" target="_blank"/> 
+<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40" target="_blank"/>
+<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" target="_blank"/> 
           
               
 </div>
