@@ -4,8 +4,8 @@
 <h2>📊 Github Statistics:</h2>
 <div align="center">
   <a href="https://github.com/g-soldera">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=g-soldera&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="g-soldera github stats" /> 
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=g-soldera&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="g-soldera github stats" /> 
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
 </div>
 <br>
 <a href="https://github.com/g-soldera/launch-countdown" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116447233844465758/launchHeader.png"/></a>
