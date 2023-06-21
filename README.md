@@ -12,9 +12,9 @@
 <h2>⭐️ My Skills:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,vite)](#)
-
 [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss)](#)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,vite)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=html)](#)
            
@@ -36,7 +36,7 @@
 <a href="https://github.com/g-soldera/social-linking" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1111637291144859728/sociallinkingHeader.png"/></a>
 <a href="https://github.com/g-soldera/art-gallery" target="_blank"><img src="https://cdn.discordapp.com/attachments/1109870440945565726/1111628222283644928/absolutegalleryHeader.png"/></a>
 <h2>📫Contact me:</h2>
-<div>
+<div align="center">
   <a href = "mailto:gustavo.soldera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/g-soldera/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
