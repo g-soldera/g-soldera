@@ -12,16 +12,16 @@
 <h2>⭐️ My Skills:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html)](#)
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,vite)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss)](#)
+
+[![My Skills](https://skillicons.dev/icons?i=html)](#)
            
 </div>
 <br>
 <h2>🌱 Current Interests:</h2>
-<div>
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](#)
 
