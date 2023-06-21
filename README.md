@@ -31,9 +31,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=redux,angular,adonis,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,adonis,angular,vue)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=android,kotlin)](https://skillicons.dev)
               
 </div>
 <br>
