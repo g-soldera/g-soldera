@@ -10,7 +10,7 @@
 <br>
 <a href="https://github.com/g-soldera/launch-countdown" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116447233844465758/launchHeader.png"/></a>
 <h2>⭐️ My Skills:</h2>
-<div>
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html)](#)
 
