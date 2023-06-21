@@ -18,10 +18,12 @@
 <h2>⭐️ Things I code with:</h2>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,node,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" target="_blank"/>
-<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40" target="_blank"/> 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=css,sass, tailwindcss)](https://skillicons.dev)
+
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" target="_blank"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" target="_blank"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" target="_blank"/> 
           
            
