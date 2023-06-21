@@ -18,22 +18,22 @@
 <h2>⭐️ My Skills:</h2>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,vite)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss)](#)
            
 </div>
 <br>
 <h2>🌱 Current Interests:</h2>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=redux,adonis,angular,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,adonis,angular,vue)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=android,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](#)
               
 </div>
 <br>
