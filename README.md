@@ -16,7 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,redux,next,svelte)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,svelte,sveltekit)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=html)](#)
            
