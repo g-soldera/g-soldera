@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Soldera;I'm+21+years+old;I'm+from+São+Paulo,+Brazil;Skills:;Javascript+and+Typescript:+NodeJS,+React,+NextJS;CSS:+TailwindCSS,+SASS,+Styled-Components;Learning:;Java:+Spring;Kotlin;Javascript:+AngularJS,+AdonisJS;#NeverStopLearning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Soldera;I'm+21+years+old;I'm+from+São+Paulo,+Brazil;Skills:;Javascript+and+Typescript:+NodeJS,+Svelte,+React,+NextJS;CSS:+TailwindCSS,+SASS,+Styled-Components;Learning:;Java:+Spring;Kotlin;Javascript:+AngularJS,+AdonisJS;#NeverStopLearning)](https://git.io/typing-svg)
 <h2>📊 Github Statistics:</h2>
 <div align="center">
   <a href="https://github.com/g-soldera">
@@ -12,9 +12,11 @@
 <h2>⭐️ My Skills:</h2>
 <div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](#)
+
 [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,vite)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,redux,next,svelte)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=html)](#)
            
@@ -23,9 +25,7 @@
 <h2>🌱 Current Interests:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](#)
-
-[![My Skills](https://skillicons.dev/icons?i=redux,adonis,angular,vue)](#)
+[![My Skills](https://skillicons.dev/icons?i=adonis,angular,vue)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](#)
               
