@@ -18,6 +18,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,svelte,angular)](#)
 
+[![My Skills](https://skillicons.dev/icons?i=node,express)](#)
+
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=html)](#)
