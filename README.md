@@ -16,9 +16,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss,bootstrap)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,svelte,angular)](#)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,next,svelte,angular)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=node,express)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql)](#)
 
