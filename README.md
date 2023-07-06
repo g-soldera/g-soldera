@@ -18,7 +18,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,svelte)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,mariadb)](#)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=html)](#)
            
