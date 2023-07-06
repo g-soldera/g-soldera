@@ -27,14 +27,14 @@
 <h2>🌱 Current Interests:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=adonis,angular)](#)
+[![My Skills](https://skillicons.dev/icons?i=adonis,jest,nest)](#)
 
 </div>
 
 <h2>🌱 Back-log:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=adonis,jest,nest)](#)
+[![My Skills](https://skillicons.dev/icons?i=vue)](#)
 
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](#)
