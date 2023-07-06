@@ -14,9 +14,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss)](#)
+[![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss,bootstrap)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,svelte)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,svelte,angular)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql)](#)
 
@@ -27,7 +27,15 @@
 <h2>🌱 Current Interests:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=adonis,angular,vue)](#)
+[![My Skills](https://skillicons.dev/icons?i=adonis,angular)](#)
+
+</div>
+
+<h2>🌱 Back-log:</h2>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=adonis,jest,nest)](#)
+
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](#)
               
