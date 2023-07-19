@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Soldera;I'm+21+years+old;I'm+from+São+Paulo,+Brazil;Skills:;Javascript+and+Typescript:+NodeJS,+Svelte,+React,+NextJS;CSS:+TailwindCSS,+SASS,+Styled-Components;Learning:;Java:+Spring;Kotlin;Javascript:+AngularJS,+AdonisJS;#NeverStopLearning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Soldera;I'm+21+years+old;I'm+from+São+Paulo,+Brazil;I'm+working+with:;Data+Analysis;I'm+studying:;System+Analysis+and+Development;Skills:;Javascript+and+Typescript;Learning:;Java;Kotlin;AngularJS;AdonisJS;#NeverStopLearning)](https://git.io/typing-svg)
 <h2>📊 Github Statistics:</h2>
 <div align="center">
   <a href="https://github.com/g-soldera">
@@ -26,18 +26,18 @@
            
 </div>
 <br>
-<h2>🌱 Current Interests:</h2>
+<h2>🌱 Current Learning Tasks:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=adonis,jest,nest)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,r)](#)
+
 
 </div>
 
 <h2>🌱 Back-log:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vue)](#)
-
+[![My Skills](https://skillicons.dev/icons?i=vue,adonis,jest,nest)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](#)
               
