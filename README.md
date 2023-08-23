@@ -12,7 +12,7 @@
 <h2>⭐️ My Skills:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,java,spring,angular,css,sass,tailwindcss,bootstrap,ts,react,next,svelte,js,nodejs,express,postgresql,mongodb,mysql,html&perline=5&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,spring,angular,css,sass,tailwindcss,bootstrap,ts,react,next,svelte,js,nodejs,express,postgresql,mongodb,mysql,html&perline=5&theme=dark)](#)
            
 </div>
 <br>
