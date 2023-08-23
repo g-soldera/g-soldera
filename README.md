@@ -12,17 +12,17 @@
 <h2>⭐️ My Skills:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,r)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,spring,angular,css,sass,tailwindcss,bootstrap,ts,react,next,svelte,js,nodejs,express,postgresql,mongodb,mysql,html&perline=5&theme=light)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular)](#)
+[![My Skills](https://skillicons.dev/icons?i=)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss,bootstrap)](#)
+[![My Skills](https://skillicons.dev/icons?i=)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,next,svelte)](#)
+[![My Skills](https://skillicons.dev/icons?i=)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)](#)
+[![My Skills](https://skillicons.dev/icons?i=)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql)](#)
+[![My Skills](https://skillicons.dev/icons?i=)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=html)](#)
            
@@ -31,7 +31,7 @@
 <h2>🌱 Current Learning Tasks:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=redis)](#)
+[![My Skills](https://skillicons.dev/icons?i=redis,pytorch,tensorflow)](#)
 
 
 </div>
