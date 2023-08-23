@@ -12,11 +12,13 @@
 <h2>⭐️ My Skills:</h2>
 <div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=python,r)](#)
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss,bootstrap)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,next,svelte,angular)](#)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,next,svelte,angular)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)](#)
 
@@ -29,7 +31,7 @@
 <h2>🌱 Current Learning Tasks:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,r)](#)
+[![My Skills](https://skillicons.dev/icons?i=redis)](#)
 
 
 </div>
