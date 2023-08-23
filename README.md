@@ -7,14 +7,12 @@
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=g-soldera&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" /> 
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
 </div>
-<br>
 <div align="center">
 <h2>⚜ My Skills ⚜</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,java,spring,angular,css,sass,tailwindcss,bootstrap,ts,react,next,svelte,js,nodejs,express,postgresql,mongodb,mysql,html&perline=5&theme=dark)](#)
            
 </div>
-<br>
 <div align="center">
 <h2>🎯 Currently Learning 🎯</h2>
 
