@@ -27,10 +27,8 @@
 <h2>🌱 Back-log:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vue,adonis,jest,nest)](#)
-
-[![My Skills](https://skillicons.dev/icons?i=kotlin)](#)
-              
+[![My Skills](https://skillicons.dev/icons?i=kotlin,vue,adonis,jest,nest)](#)
+       
 </div>
 <br>
 <h2>📑 Repositories:</h2>
