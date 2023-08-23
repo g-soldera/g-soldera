@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Soldera;I'm+21+years+old;I'm+from+São+Paulo,+Brazil;I'm+a+Data+Analysis+Intern;I'm+studying:;System+Analysis+and+Development;Skills:;Python+abd+R;Future+Data+Scientist;NeverStopLearning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Soldera;I'm+21+years+old;I'm+from+São+Paulo,+Brazil;I'm+a+Data+Analysis+Intern;I'm+studying:;System+Analysis+and+Development;Skills:;Python+abd+R;Future+Data+Scientist;NeverStopLearning)](https://git.io/typing-svg)
 <h2>📊 Github Statistics:</h2>
 <div align="center">
   <a href="https://github.com/g-soldera">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=g-soldera&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="g-soldera github stats" /> 
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=g-soldera&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=bd93f9&text_color=f8f8f2&bg_color=44475a" alt="g-soldera github stats" /> 
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=44475a" />
 </div>
 <br>
 <a href="https://github.com/g-soldera/launch-countdown" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116447233844465758/launchHeader.png"/></a>
