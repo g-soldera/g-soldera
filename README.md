@@ -8,7 +8,6 @@
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-soldera&layout=compact&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
 </div>
 <br>
-<a href="https://github.com/g-soldera/launch-countdown" target="_blank"><img src="https://media.discordapp.net/attachments/1109870440945565726/1116447233844465758/launchHeader.png"/></a>
 <h2>⭐️ My Skills:</h2>
 <div align="center">
 
