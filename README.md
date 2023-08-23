@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,r)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring, angular)](#)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular)](#)
 
 [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss,bootstrap)](#)
 
