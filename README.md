@@ -15,7 +15,7 @@
            
 </div>
 <br>
-<h2>🌱 Current Learning Tasks:</h2>
+<h2>🎯 Current Learning Tasks:</h2>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=redis,pytorch,tensorflow)](#)
