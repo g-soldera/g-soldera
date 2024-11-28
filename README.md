@@ -10,7 +10,7 @@
 <div align="center">
 <h2>⚜ My Skills ⚜</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,django,java,angular,css,sass,tailwindcss,ts,js,nodejs,express,postgresql,mongodb,mysql,html&perline=4&theme=dark)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,spark,django,java,angular,css,sass,tailwindcss,ts,js,nodejs,express,postgresql,mongodb,mysql,html&perline=4&theme=dark)](#)
            
 </div>
 <div align="center">
